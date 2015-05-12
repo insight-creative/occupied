@@ -1,0 +1,9 @@
+.light {
+  padding: 20px;
+}
+.false {
+  background-color: green;
+}
+.true {
+  background-color: red;
+}
